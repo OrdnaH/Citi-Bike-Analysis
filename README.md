@@ -14,7 +14,7 @@ However, while the data has been regularly updated, the team has yet to implemen
  
 * Use Tableau to create a story using aggregated NY Citi Bike data trip history logs.  I chose to analyze differences in user activity between gender over a 1 year period.  The first task was to clean and prep the data, before eventually merging the January 2014 and January 2015 Citi Bike system data files in Tableau.  Next, several worksheets were constructed using the merged data, resulting in [Charts](Images/User_Activity_Charts.png) and [Maps](Images/User_Activity_Map.png) that depict how user activity changed over the 1 year period.  
 
-![Code_Snippet](Images/Code_Snippet.png)
+![Code_Snippet](Images/Code_snippet.png)
 
 ## Task
 
